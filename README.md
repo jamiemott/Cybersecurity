@@ -1,5 +1,5 @@
 # Cybersecurity
 Repository for CodePath Cybersecurity class
 
-[Prework Screenshot](prework screenshot.png)
+![Prework Screenshot](https://github.com/jamiemott/Cybersecurity/blob/main/prework%20screenshot.png)
 
